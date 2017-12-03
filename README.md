@@ -1,4 +1,5 @@
 # demo
 Git workshop demo
 
-Hello, world!
+Hello, Bob!
+
